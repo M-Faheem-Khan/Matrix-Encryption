@@ -16,5 +16,5 @@ This is a simple matrix encryption and decryption program
 - msg part 1
 - msg part 2
 
-### return
+### returns
 - original message
